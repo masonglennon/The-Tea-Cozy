@@ -1,0 +1,1 @@
+A project design based off of an "Off Platform" project from Codecademy that helped me further develop my Front-End Developer skills by allowing me to practice in the languages of HTML and CSS on my own device.
